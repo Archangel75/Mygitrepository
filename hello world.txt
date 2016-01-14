@@ -1,3 +1,7 @@
 print("Hello World")
 print("¸ó")
+<<<<<<< HEAD
 print("hello again")
+=======
+print("+++")
+>>>>>>> master
