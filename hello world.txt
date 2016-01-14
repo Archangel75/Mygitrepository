@@ -1,9 +1,9 @@
-print("Hello World")
-print("¸ó")
+print("Hello World");
+print("¸ó");
 <<<<<<< HEAD
-print("hello again")
+print("hello again");
 =======
-print("+++")
+print("+++");
 >>>>>>> master
 
 
