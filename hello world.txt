@@ -5,3 +5,6 @@ print("hello again");
 =======
 print("+++");
 >>>>>>> master
+
+
+print("hello my dear friend")
